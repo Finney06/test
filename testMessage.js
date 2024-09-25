@@ -32,7 +32,7 @@ client.on('disconnected', (reason) => {
 // Function to send birthday messages
 function sendBirthdayMessages() {
     // Define the recipient and message content
-    const number = '2349025656789@c.us'; // Replace with the actual recipient number
+    const number = '2347032613041@c.us'; // Replace with the actual recipient number
     const message = 'Happy Birthday! 🎉';
 
     // Send the message
